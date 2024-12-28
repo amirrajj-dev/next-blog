@@ -1,6 +1,6 @@
-# Next Blog - Admin Panel
+# Next Blog
 
-Welcome to the **Next Blog Admin Panel**! This project is a persian modern and dynamic blogging platform designed for administrators to manage content, users, and site settings. Built with cutting-edge technologies like Next.js, React, TailwindCSS, and MongoDB, this admin panel provides all the tools needed for efficient content management.
+Welcome to the **Next Blog Admin Panel**! This project is a persian modern and dynamic blogging platform designed to manage content, users, and site settings. Built with cutting-edge technologies like Next.js, React, TailwindCSS, and MongoDB, this admin panel provides all the tools needed for efficient content management.
 
 ## Features
 
@@ -44,7 +44,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 git clone https://github.com/amirrajj-dev/next-blog.git
-cd next-blog-admin
+cd next-blog
 ```
 
 2. **.Install the dependencies:**
